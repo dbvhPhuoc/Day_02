@@ -4,15 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cda28eda-cdac-47fd-a092-c463a65f1dec" name="Changes" comment="" />
+    <list default="true" id="cda28eda-cdac-47fd-a092-c463a65f1dec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotationbasedconfiguration/AccountRepository2Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationbasedconfiguration/AccountRepository2Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotationbasedconfiguration/AccountService2Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationbasedconfiguration/AccountService2Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotationbasedconfiguration/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationbasedconfiguration/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasedconfiguration/BeanCofiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javabasedconfiguration/BeanCofiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasedconfiguration/MainTestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javabasedconfiguration/MainTestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccountRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AccountRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xmlbaseconfiguration/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xmlbaseconfiguration/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/annotationbasedconfiguration/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/annotationbasedconfiguration/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/xmlbaseconfiguration/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xmlbaseconfiguration/beans.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dbvhPhuoc"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dbvhPhuoc/Day_02.git",
+    "accountId": "e0c947ba-7006-4448-9b7c-c8d0b69b8536"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -24,12 +61,50 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MainTestConfig.executor": "Run",
+    "Maven.Day_02 [clean].executor": "Run",
+    "Maven.Day_02 [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Spring_boot/Day_02/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.MainTestConfig">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotationbasedconfiguration.Main" />
+      <module name="Day_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotationbasedconfiguration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTestConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasedconfiguration.MainTestConfig" />
+      <module name="Day_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasedconfiguration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTestConfig" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,16 +115,5 @@
       <updated>1722943746475</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
